@@ -18,4 +18,4 @@
 | - | - |
 | [Append Sort](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/00000000007549e5) | [12pts](2021/Round1A/AppendSort/sol12.py) [26pts](2021/Round1A/AppendSort/sol26.py) |
 | [Prime Time](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/00000000007543d8) | [7pts](2021/Round1A/PrimeTime/sol07.py) [20pts](2021/Round1A/PrimeTime/sol20.py) [35pts](2021/Round1A/PrimeTime/sol35.py) |
-| [Hacked Exam](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/0000000000754750) | [8pts](2021/Round1A/HackedExam/sol08.py)  |
+| [Hacked Exam](https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/0000000000754750) | |
